@@ -1,0 +1,12 @@
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/bin/Debug/netcoreapp3.1/Layer.Architecture.Service.deps.json
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/bin/Debug/netcoreapp3.1/Layer.Architecture.Service.dll
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/bin/Debug/netcoreapp3.1/Layer.Architecture.Service.pdb
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/bin/Debug/netcoreapp3.1/Layer.Architecture.Domain.dll
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/bin/Debug/netcoreapp3.1/Layer.Architecture.Domain.pdb
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/obj/Debug/netcoreapp3.1/Layer.Architecture.Service.csproj.AssemblyReference.cache
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/obj/Debug/netcoreapp3.1/Layer.Architecture.Service.AssemblyInfoInputs.cache
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/obj/Debug/netcoreapp3.1/Layer.Architecture.Service.AssemblyInfo.cs
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/obj/Debug/netcoreapp3.1/Layer.Architecture.Service.csproj.CoreCompileInputs.cache
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/obj/Debug/netcoreapp3.1/Layer.Architecture.Service.csproj.CopyComplete
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/obj/Debug/netcoreapp3.1/Layer.Architecture.Service.dll
+/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/obj/Debug/netcoreapp3.1/Layer.Architecture.Service.pdb

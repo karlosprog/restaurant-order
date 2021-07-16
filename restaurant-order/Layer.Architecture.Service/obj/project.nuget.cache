@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4YF5Rsr5EQiXTJRr4CrTPCtoNqKu9318p5EYDu6a0/rz3qMnwgUZDZ8Cz139ep3Rob6rK9jxNgyw3OPa3gI9Yg==",
+  "success": true,
+  "projectFilePath": "/Users/karlosprog/Projects/clean-code-dot-net/layer-architecture/Layer.Architecture.Service/Layer.Architecture.Service.csproj",
+  "expectedPackageFiles": [
+    "/Users/karlosprog/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/karlosprog/.nuget/packages/fluentvalidation/9.5.1/fluentvalidation.9.5.1.nupkg.sha512",
+    "/Users/karlosprog/.nuget/packages/fluentvalidation.aspnetcore/9.5.1/fluentvalidation.aspnetcore.9.5.1.nupkg.sha512",
+    "/Users/karlosprog/.nuget/packages/fluentvalidation.dependencyinjectionextensions/9.5.1/fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
+    "/Users/karlosprog/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/karlosprog/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/karlosprog/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
